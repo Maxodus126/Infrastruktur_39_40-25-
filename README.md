@@ -21,8 +21,8 @@
 
 | Field | Detail |
 |---|---|
-| **Nama Mahasiswa** | Budi Santoso |
-| **NIM** | 20230001 |
+| **Nama Mahasiswa** | Aflin Awaludin |
+| **NIM** | 24360007 |
 | **Program Studi** | Teknik Informatika |
 | **Mata Kuliah** | IF1405 — Infrastruktur Cloud dan Sistem Terdistribusi (4 SKS) |
 | **Dosen Pengampu** | Dikky Suryadi S.Kom, M.Kom |
